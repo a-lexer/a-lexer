@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: In JavaScript ["1","2","11"].map(parseInt) gives [1, NaN, 3]
 
-- in JavaScript, if [2,3,1].sort() gives [1,2,3], what does [21,112,2].sort() give?
+- ❓ In JavaScript, if [2,3,1].sort() gives [1,2,3], what does [21,112,2].sort() give?
 
 <!--
 **a-lexer/a-lexer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
