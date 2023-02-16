@@ -1,4 +1,5 @@
-### Hi there, I'm Alex 👋
+# Hi there, I'm Alex 👋
+
 
 - ⚡ Fun fact: In JavaScript ["1","2","11"].map(parseInt) gives [1, NaN, 3]
 
